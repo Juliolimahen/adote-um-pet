@@ -1,6 +1,6 @@
 # Projeto Adote um Pet 
 
--Front-end 
+- Front-end 
     React JS + Next JS
--Back-end 
+- Back-end 
     Python + Django  
