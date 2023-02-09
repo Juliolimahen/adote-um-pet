@@ -1,4 +1,4 @@
 [[redirects]]
 from ="/*"
-to = "/index.tsx"
+to = "/pages/index.tsx"
 status = 200
