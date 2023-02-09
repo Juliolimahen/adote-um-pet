@@ -1,4 +1,0 @@
-[[redirects]]
-from ="/*"
-to = "pages/index.tsx"
-status = 200
