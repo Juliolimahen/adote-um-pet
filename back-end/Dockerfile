@@ -1,10 +1,6 @@
 #
 # Build stage
 #
-FROM eclipse-temurin:17-jdk-alpine
-COPY . .
-RUN mvn clean package -Pprod -DskipTests
-
 #
 # Package stage
 #
