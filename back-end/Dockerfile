@@ -1,10 +1,14 @@
 #
 # Build stage
 #
+FROM eclipse-temurin:17-jdk-focal
+COPY . .
+RUN mvn clean package -Pprod -DskipTests
+
 #
 # Package stage
 #
-FROM eclipse-temurin:17-jdk-alpine
+FROM eclipse-temurin:17-jdk-focal
 COPY --from=build /target/adoteumpet-0.0.1-SNAPSHOT.jar adoteumpet.jar
 ENV PORT 8080
 EXPOSE 8080
