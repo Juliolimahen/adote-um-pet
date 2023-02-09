@@ -17,7 +17,7 @@ const tema = createTheme({
         fontFamily: 'Roboto, sans-serif',
     },
     shape: {
-        borderRadius: '3px',
+        borderRadius: 3,
     },
     components: {
         MuiButton: {
