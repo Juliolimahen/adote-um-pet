@@ -31,5 +31,6 @@ public class AdoteUmPetApplication implements CommandLineRunner {
 		pet1.setHistoria(" Marley não é um cão comum, ele não obedece, tinha pavor de chuva e se ficasse sozinho em casa nessas ocasiões destruiria tudo.");
 		pet1.setFoto("https://raw.githubusercontent.com/Juliolimahen/assets/main/pets/img/marley.png");
 		petRepository.save(pet1);
+
 	}
 }
