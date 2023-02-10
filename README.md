@@ -87,4 +87,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 Julio Henrique C Lima
 <a href="https://www.linkedin.com/in/julio-henrique-143193154"> Linkedin</a>
 
-<sup>
+</sup>
