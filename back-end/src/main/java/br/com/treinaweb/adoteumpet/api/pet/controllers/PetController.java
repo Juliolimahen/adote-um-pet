@@ -35,10 +35,4 @@ public class PetController {
     public PetResponse create(@RequestBody @Valid PetRequest petRequest) {
         return petService.create(petRequest);
     }
-
-    @DeleteMapping
-    public void Romove (@RequestBody @Valid PetRequest petRequest)
-    {
-        petService.deleteAll();
-    }
 }

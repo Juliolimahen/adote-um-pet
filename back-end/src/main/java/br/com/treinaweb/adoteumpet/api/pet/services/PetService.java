@@ -26,10 +26,6 @@ public class PetService {
             .toList();
     }
 
-    public void deleteAll(){
-        petRepository.deleteAll();
-    }
-
     public PetResponse create(PetRequest petRequest) {
         var petToCreate = petMapper.toModel(petRequest);
         var createdPet = petRepository.save(petToCreate);
