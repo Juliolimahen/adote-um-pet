@@ -45,11 +45,12 @@ Essa aplicação foi realizada durante a **Semana Multi-Stack 3**, projeto da [T
 
 - ### **Pré-requisitos**
 
-  - É **necessário** possuir o **[Java 17](https://www.java.com/)** e **[Spring Boot](https://spring.io/)** instalados no computador.
+  - É **necessário** possuir o **[Java 17 - jdk](https://jdk.java.net/java-se-ri/17)** e **[Spring Boot](https://spring.io/)** instalados no computador.
   - É **necessário** possuir o **[Git](https://git-scm.com/)** instalado e configurado no computador.
-  - É **vital** ter a **[O Editor VS Code](https://spring.io/tools)** instalado no computador para subir o backend.
-  - É **preciso** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)**.
-  - Também, é ter instalado o pacote mvn e adicionado ao path 
+  - É **vital** ter a **[O Editor VS Code](https://code.visualstudio.com/)** instalado no computador para subir o backend.
+  - É **preciso** ter um gerenciador de pacotes seja o **[Npm](https://www.npmjs.com/)**.
+  - É **necessário** ter uma ferramenta para testar apis **[Postman](https://www.postman.com/downloads/)**.
+  - Também é ter **necessário** instalado o pacote mvn e adicionado ao path **[Maven](https://maven.apache.org/)**.
 
 1. Faça um clone do repositório:
 
@@ -80,3 +81,13 @@ Essa aplicação foi realizada durante a **Semana Multi-Stack 3**, projeto da [T
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 <sup>Projeto desenvolvido com a tutoria da [TreinaWeb](https://devsuperior.com.br/).</sup>
+<sup>
+# Autor
+
+Julio Henrique C Lima
+
+## :linkedin: 
+
+https://www.linkedin.com/in/julio-henrique-143193154
+
+<sup>
