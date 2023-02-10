@@ -9,9 +9,9 @@ App Administrativo publicado
 
 - https://adote-um-pet-nine.vercel.app/pets/cadastro
 
-App Pets 
+App Pets publicado
 
-- https://adote-um-pet-nine.vercel.app publicado
+- https://adote-um-pet-nine.vercel.app 
 
 Essa aplicação foi realizada durante a **Semana Multi-Stack 3**, projeto da [TreinaWeb](https://www.treinaweb.com.br/).
 
@@ -74,5 +74,9 @@ Essa aplicação foi realizada durante a **Semana Multi-Stack 3**, projeto da [T
   # Inicie a aplicação web
   $ npm run dev # ou yarn start
 ```
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 <sup>Projeto desenvolvido com a tutoria da [TreinaWeb](https://devsuperior.com.br/).</sup>
