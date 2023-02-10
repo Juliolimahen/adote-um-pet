@@ -11,5 +11,9 @@ public interface PetRepository extends JpaRepository<Pet, Long> {
         return findById(id)
             .orElseThrow(PetNotFoundException::new);
     }
+    @Override
+    default void deleteAll() {
+        // TODO Auto-generated method stub
+    }
 
 }
