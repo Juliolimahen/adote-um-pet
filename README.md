@@ -1,4 +1,4 @@
-# Projeto Adote um Pet 
+# Projeto Adote um Pet. Projeto para adoção virtual de pets, voce escolhe seu pet faz uma doação para ajudar a o manter.
 
 - Front-end 
     React JS + Next JS
