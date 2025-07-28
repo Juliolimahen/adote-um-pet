@@ -32,7 +32,7 @@ Essa aplicação foi realizada durante a **Semana Multi-Stack 3**, projeto da [T
 <p>
 
 
-## :rocket: Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - [NextJS](https://nextjs.com/)
 - [NPM](https://www.npmjs.com/)
@@ -41,7 +41,7 @@ Essa aplicação foi realizada durante a **Semana Multi-Stack 3**, projeto da [T
 - [Spring Boot](https://spring.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## :boom: Como Executar
+## Como Executar
 
 - ### **Pré-requisitos**
 
@@ -76,7 +76,7 @@ Essa aplicação foi realizada durante a **Semana Multi-Stack 3**, projeto da [T
   $ npm run dev # ou yarn start
 ```
 
-## :memo: Licença
+## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
